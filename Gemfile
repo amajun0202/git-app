@@ -70,6 +70,5 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
   gem "webdrivers"
-end
-
 gem 'pry-rails'
+gem 'devise'
